@@ -1,5 +1,6 @@
 title: "Données essentielles des marchés publics français"
 description : "Données de tous les marchés supérieurs à 25 000 euros émanant de la commande publique"
+homepage: "https://github.com/AntoineAugusti/format-commande-publique"
 schemas:
   -
     path: "schémas/xml/contrats-concessions.xsd"
